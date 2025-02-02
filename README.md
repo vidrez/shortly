@@ -1,5 +1,5 @@
 # Shortly 🚀 
-**For All Redirecting Tasks, Safely**  
+**For Redirecting, Safely**  
 
 Shortly is a security-first URL shortener that ensures users are protected by scanning URLs with VirusTotal before redirecting. Built with modern technologies, it prioritizes user safety without compromising on speed or simplicity.  
 
